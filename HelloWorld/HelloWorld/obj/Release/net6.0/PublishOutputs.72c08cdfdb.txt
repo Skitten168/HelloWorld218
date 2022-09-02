@@ -1,0 +1,5 @@
+/Users/samkittendorf/Projects/HelloWorld/HelloWorld/bin/Release/net6.0/publish/HelloWorld
+/Users/samkittendorf/Projects/HelloWorld/HelloWorld/bin/Release/net6.0/publish/HelloWorld.dll
+/Users/samkittendorf/Projects/HelloWorld/HelloWorld/bin/Release/net6.0/publish/HelloWorld.deps.json
+/Users/samkittendorf/Projects/HelloWorld/HelloWorld/bin/Release/net6.0/publish/HelloWorld.runtimeconfig.json
+/Users/samkittendorf/Projects/HelloWorld/HelloWorld/bin/Release/net6.0/publish/HelloWorld.pdb
